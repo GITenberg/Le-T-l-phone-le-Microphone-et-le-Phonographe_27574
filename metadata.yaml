@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '32779'
     url: http://www.gutenberg.org/2009/agents/32779
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27574#Le-T-l-phone-le-Microphone-et-le-Phonographe
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Technology
